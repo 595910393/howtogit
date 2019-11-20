@@ -1,0 +1,2 @@
+# howtogit
+study use git
